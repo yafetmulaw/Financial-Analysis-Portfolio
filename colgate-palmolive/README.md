@@ -31,4 +31,5 @@ Yafet Mulaw
 PGDM 2024-26  
 Addis Ababa, Ethiopia  
 [Yafet Mulaw on LinkedIn](https://www.linkedin.com/in/yafet-mulaw/)
+
 Email: yafet.mulaw.21@gmail.com
