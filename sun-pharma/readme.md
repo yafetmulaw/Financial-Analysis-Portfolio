@@ -24,7 +24,7 @@ The analysis indicates negligible bankruptcy risk, driven by strong liquidity, p
 1. Open the **.xlsx** file to review formulas and inputs (e.g., Sheet "Sun Pharma Altman" for Z-Score calc).
 2. Refer to the **.pdf** for the complete narrative report, methodology, and interpretations.
 
-Feel free to fork, use as reference, or reach out for questions!
+Feel free to reach out for questions!
 
 Yafet Mulaw
 PGDM 2024-26
