@@ -21,7 +21,7 @@ The analysis confirms high-quality, sustainable earnings supported by stable cas
 - Consolidated financial statements from Colgate-Palmolive Annual Reports / 10-K (years ended Dec 31, 2023 & 2024)
 - Analysis performed in Excel as part of PGDM coursework
 
-## How to Use / Replicate
+## How to Use
 1. Open the **.xlsx** file to review formulas and inputs.
 2. Refer to the **.pdf** for the complete narrative report, tables, and interpretations.
 
