@@ -26,7 +26,9 @@ The analysis indicates negligible bankruptcy risk, driven by strong liquidity, p
 
 Feel free to reach out for questions!
 
-Yafet Mulaw
-PGDM 2024-26
-Addis Ababa, Ethiopia
+
+Yafet Mulaw  
+PGDM 2024-26  
+Addis Ababa, Ethiopia  
+Email: yafet.mulaw.21@gmail.com  
 [Yafet Mulaw on LinkedIn](https://www.linkedin.com/in/yafet-mulaw/)
