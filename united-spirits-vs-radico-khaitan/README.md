@@ -4,7 +4,7 @@ This project compares the financial performance of United Spirits Ltd (USL) and 
 
 The analysis highlights trends and relative strengths, such as USL's improving net profit margins (12.3% in FY2024) vs Radico's (7.2%), and DuPont breakdowns showing ROE drivers.
 
-## Key Findings Summary
+## Summary Findings 
 - **Profitability**: USL shows stronger net profit margins (12.3% FY2024) and EBITDA margins (16.0%) compared to Radico (7.2% and 11.2%).
 - **Efficiency**: USL has higher asset turnover (1.12 FY2024) but lower inventory turnover than Radico.
 - **Solvency**: Both have low debt-equity ratios, but USL's is near 0, indicating minimal leverage.
